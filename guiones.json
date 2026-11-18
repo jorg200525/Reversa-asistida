@@ -1,0 +1,39 @@
+[
+  {
+    "n": 1,
+    "titulo": "Maniobra de Reversa Asistida",
+    "resumen": "Presentación de la capacitación del Programa Ruta 66 de Seguridad y Salud Ocupacional.",
+    "guion": "Bienvenidos a la capacitación Maniobra de Reversa Asistida, del Programa Ruta 66 de Seguridad y Salud Ocupacional. Soy el Profesor Jorge, y en esta clase aprenderemos a retroceder con el camión de forma segura, siempre con el apoyo de un auxiliar. Veremos primero un video corto de atención. Luego revisaremos las reglas para una maniobra en reversa, qué son los puntos ciegos, dónde debe ubicarse el auxiliar, qué señales debe usar y el procedimiento paso a paso. Recuerden que una maniobra de reversa mal hecha pone en riesgo a las personas que están alrededor del vehículo. Comencemos."
+  },
+  {
+    "n": 2,
+    "titulo": "Video: ¡Atención! Reduce riesgos",
+    "video": "video_reversa.mp4",
+    "resumen": "Video de 30 segundos sobre el riesgo de retroceder cerca de personas y qué hacer si se pierde de vista al asistente.",
+    "guion": "Este video comienza con el mensaje ¡Atención! sobre un camión de reparto. Luego aparece una señal de prohibido sobre un camión con personas cerca en la calle, para recordar que no se debe retroceder sin apoyo. El conductor muestra qué hacer si pierdes de vista a tu asistente: suspender la maniobra. El video termina con el mensaje ¡Reduce riesgos! Observa. Piensa. Actúa."
+  },
+  {
+    "n": 3,
+    "titulo": "Reglas para realizar una maniobra en reversa",
+    "resumen": "Las 8 reglas para retroceder con seguridad.",
+    "guion": "Estas son las ocho reglas para realizar una maniobra en reversa. Regla uno: solo realiza la maniobra si es necesario. Regla dos: solo tienes 6 metros para hacer una maniobra de reversa. Regla tres: si realizas una maniobra, hazla asistidamente. Regla cuatro: el auxiliar y el conductor siempre deben mantener comunicación y contacto visual. Regla cinco: hazte notar, enciende las luces intermitentes. Regla seis: evita entorpecer el tránsito circulando en reversa en una intersección. Regla siete: impide interrumpir el tránsito cruzando la vía para cambiar de sentido de circulación. Y regla ocho: evita circular en reversa en el mismo sentido de circulación."
+  },
+  {
+    "n": 4,
+    "titulo": "¿Qué son los puntos ciegos?",
+    "resumen": "Áreas alrededor del vehículo que no se pueden observar; los vehículos pesados tienen más.",
+    "guion": "¿Qué son los puntos ciegos? Son áreas que existen alrededor del vehículo que no se pueden observar. En el gráfico vemos que hay puntos ciegos en la parte frontal, en los costados, en la zona lateral y en la parte posterior del camión. Los vehículos pesados cuentan con más puntos ciegos a nivel y debajo de la observación natural del conductor. Por eso es tan importante la maniobra asistida: el conductor no puede ver todo lo que hay alrededor del camión."
+  },
+  {
+    "n": 5,
+    "titulo": "Posición del auxiliar y señales",
+    "resumen": "El auxiliar se ubica en las esquinas posteriores y usa tres señales: ¡Avance!, ¡Alto! y ¡Fin de la maniobra!",
+    "guion": "Veamos la posición del auxiliar. El auxiliar debe posicionarse en las esquinas posteriores del vehículo para tener visibilidad en un ángulo de 90 grados y buscar el lado de la acera. Para realizar la maniobra de reversa con seguridad, el auxiliar usa tres señales: ¡Avance!, ¡Alto! y ¡Fin de la maniobra! El conductor debe obedecer cada señal."
+  },
+  {
+    "n": 6,
+    "titulo": "Procedimiento de la maniobra de reversa",
+    "resumen": "Flujograma de 11 pasos: procedimiento e indicaciones del ayudante.",
+    "guion": "Este es el procedimiento de la maniobra de reversa. Paso uno: accionar las luces intermitentes. Paso dos: aplicar la técnica de 360 grados. Paso tres: detener la unidad; el gráfico muestra una referencia de 2 metros. Paso cuatro: hacer contacto visual con el compañero. Si pierdes visibilidad, suspende la maniobra. Paso seis: las indicaciones del ayudante son avanzar, alto y fin de la maniobra. Paso siete: siempre que maniobres en reversa, la alarma debe sonar y tu ayudante te debe apoyar. El ayudante dará la señal con ambas manos para indicar el fin de la maniobra. Luego viene el paro total, y los pasos nueve, diez y once del gráfico muestran asegurar la unidad, bajar de la cabina y retirar la llave. Recuerden: Observa. Piensa. Actúa."
+  }
+]
