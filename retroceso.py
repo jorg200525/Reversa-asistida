@@ -44,7 +44,7 @@ st.set_page_config(page_title=f"Aula Virtual SST - {CURSO['titulo']}", layout="w
 # =======================================================
 # CONFIGURACIÓN
 # =======================================================
-CARPETA_LAMINAS = BASE / "laminas"
+CARPETA_LAMINAS = BASE / "Laminas"
 CARPETA_VIDEOS  = BASE / "videos"
 ARCHIVO_GUIONES = BASE / "guiones.json"
 CARPETA_AUDIO   = BASE / "audio_cache"
